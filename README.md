@@ -5,4 +5,10 @@ Dosyaları bilgisayarınıza kaydettikten sonra aşağıdaki kodları projenizin
 Kolay gelsin :)
 ```python
 import sys
-sys.stdin = open("buraya_dosya_yolu_gelecek.txt", "w", encoding = "utf-8")
+sys.stdin = open("buraya_input_dosyası_gelecek.txt", "w", encoding = "utf-8")
+```
+
+Örn:
+```python
+import sys
+sys.stdin = open(".Inputs/inputs0.txt", "w", encoding = "utf-8")

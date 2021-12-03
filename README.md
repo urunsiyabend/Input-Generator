@@ -1,6 +1,6 @@
 # Input-Generator
 
-Input dosyaları main.py dosyası tarafından otomatik olarak jenere edilmiştir.
+Input dosyaları main.py dosyası tarafından otomatik olarak oluşturulmuştur.
 
 Dosyaları bilgisayarınıza kaydettikten sonra aşağıdaki kodları projenizin başına yazarak inputları test edebilirsiniz
 

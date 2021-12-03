@@ -695,12 +695,13 @@ Araç sınıflarının ortalama gelirleri:
 	Tır tipi araçların ortalama gelirleri: 306.63 TL
 
 1 tondan az binek araçların toplam binek sayısının tipi araç sayısına oranı: % 0.00
-10 tondan fazla olan otobüs ve kamyon sayısının toplam otobüs ve kamyon sayısına oranı: % 0.00
+10 tondan fazla olan otobüs, kamyon ve tır sayısının toplam otobüs ve kamyon sayısına oranı: % 0.00
 Otoparkta 30 dakika veya daha kısa süre kalan motosiklet ve bineklerin tüm motosiklet ve bineklere oranı: % 0.00
 Otoparkta 1 günden daha uzun süre kalan otobüs ve minibüs sayısının toplam otobüs ve minibüs sayısına oranı: % 77.27
 30 günden fazla kalan veya 1000 TL'den fazla gelir getiren araç sayısının toplam araç sayısına oranı: % 0.00
+Sürücüsü gazi ya da engelli olan araç sayısı: % 13.00
 Sürücüsü gazi ya da engelli olan araç sayısının toplam araç sayısına oranı: % 26.00
-Sürücüsü gazi ya da engelli olan araçların otoparkta kalma sürelerinin toplam süreye oranı: % 32.03
+Sürücüsü gazi ya da engelli olan araçların otoparkta ortalama kalma süresi(gg:ss:dd): 04:00:38
 3 saatten az kalan indirimli araçların tüm indirimli araçlar içindeki oranı: % 100.00
 
 Otoparkta en uzun süre kalan araç:

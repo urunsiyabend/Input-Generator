@@ -1,7 +1,7 @@
 # Input-Generator
 
 
-Aşağıdaki kodları projenizin başına yazarak inputları test edebilirsiniz
+Dosyaları bilgisayarınıza kaydettikten sonra aşağıdaki kodları projenizin başına yazarak inputları test edebilirsiniz
 Kolay gelsin :)
 ```python
 import sys

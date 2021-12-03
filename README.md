@@ -8,7 +8,7 @@ import sys
 sys.stdin = open("buraya_input_dosyası_gelecek.txt", "w", encoding = "utf-8")
 ```
 
-Örn:
+### Örn:
 ```python
 import sys
 sys.stdin = open(".Inputs/inputs0.txt", "w", encoding = "utf-8")

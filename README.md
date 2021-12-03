@@ -3,6 +3,8 @@
 Input dosyaları main.py dosyası tarafından otomatik olarak jenere edilmiştir.
 
 Dosyaları bilgisayarınıza kaydettikten sonra aşağıdaki kodları projenizin başına yazarak inputları test edebilirsiniz
+
+
 Outputlarla karşılaştırmayı unutmayın!
 Kolay gelsin :)
 ```python

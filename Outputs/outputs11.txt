@@ -710,5 +710,5 @@ Otoparkta en uzun süre kalan araç:
 	Getirdiği gelir: 0.00 TL
 
 En çok gelir getiren binek araç:
-	Kalma süresi(gg/ss/dd): 610:21:26
-	Getirdiği gelir: 0.00 TL
+	Kalma süresi(gg/ss/dd): 63:09:01
+	Getirdiği gelir: 955.11 TL

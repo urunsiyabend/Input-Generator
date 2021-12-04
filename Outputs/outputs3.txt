@@ -930,7 +930,7 @@ Araç sınıflarının ortalama gelirleri:
 Otoparkta 30 dakika veya daha kısa süre kalan motosiklet ve bineklerin tüm motosiklet ve bineklere oranı: % 16.67
 Otoparkta 1 günden daha uzun süre kalan otobüs ve minibüs sayısının toplam otobüs ve minibüs sayısına oranı: % 55.00
 30 günden fazla kalan veya 1000 TL'den fazla gelir getiren araç sayısının toplam araç sayısına oranı: % 42.00
-Sürücüsü gazi ya da engelli olan araç sayısı: % 7.00
+Sürücüsü gazi ya da engelli olan araç sayısı: 7.00
 Sürücüsü gazi ya da engelli olan araç sayısının toplam araç sayısına oranı: % 14.00
 Sürücüsü gazi ya da engelli olan araçların otoparkta ortalama kalma süresi(gg:ss:dd): 38:16:35
 3 saatten az kalan indirimli araçların tüm indirimli araçlar içindeki oranı: % 71.43

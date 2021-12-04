@@ -3,84 +3,119 @@ Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 78 YT 0642
 Aracın sınıfı: Otobüs
 Aracın ağırlığı: 79864.00 kg
 Toplam süre (gg/ss/dd): 00:01:04
 Ad Soyad: Gdaf Wyzqrb
 	Ücret: 214.66 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 46 SV 7287
 Aracın sınıfı: Tır
 Aracın ağırlığı: 877125.00 kg
 Toplam süre (gg/ss/dd): 00:03:27
 Ad Soyad: Pifs Tvvj
 	Ücret: 2220.81 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 21 RW 1184
 Aracın sınıfı: Tır
 Aracın ağırlığı: 88705.00 kg
 Toplam süre (gg/ss/dd): 00:01:38
 Ad Soyad: Ouss Rgllm
 	Ücret: 241.76 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 15 SG 1704
 Aracın sınıfı: Kamyon
 Aracın ağırlığı: 866.00 kg
 Toplam süre (gg/ss/dd): 06:21:34
 Ad Soyad: Jlmsqk Zdawun
 	Ücret: 418.17 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 31 QG 6713
 Aracın sınıfı: Otobüs
 Aracın ağırlığı: 326.00 kg
 Toplam süre (gg/ss/dd): 00:01:02
 Ad Soyad: Fabc Kcgdl
 	Ücret: 15.81 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 68 DY 0520
 Aracın sınıfı: Tır
 Aracın ağırlığı: 68.00 kg
 Toplam süre (gg/ss/dd): 00:00:30
 Ad Soyad: Ujdlo Dlro
 	Ücret: 12.17 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 62 VR 4083
 Aracın sınıfı: Tır
 Aracın ağırlığı: 98691.00 kg
 Toplam süre (gg/ss/dd): 266:21:45
 Ad Soyad: Tdsay Xhrg
 	Ücret: 16262.73 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -88,6 +123,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 06 GE 2235
 Aracın sınıfı: Binek araç
 Aracın ağırlığı: 72961.00 kg
@@ -96,6 +134,8 @@ Ad Soyad: Djrofa Napxn
 Özel Durum: Engelli
 İndirim Oranı: % 50
 	Ücret: 720.20 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -103,6 +143,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 18 SE 4608
 Aracın sınıfı: Binek araç
 Aracın ağırlığı: 7276.00 kg
@@ -111,6 +154,8 @@ Ad Soyad: Itvfqj Fovp
 Özel Durum: Engelli
 İndirim Oranı: % 50
 	Ücret: 76.09 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -118,6 +163,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 72 HK 4006
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 259.00 kg
@@ -126,18 +174,25 @@ Ad Soyad: Ludkf Paipnt
 Özel Durum: Engelli
 İndirim Oranı: % 50
 	Ücret: 1.82 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 09 IO 2752
 Aracın sınıfı: Kamyon
 Aracın ağırlığı: 2332.00 kg
 Toplam süre (gg/ss/dd): 05:14:23
 Ad Soyad: Qpgovh Spvc
 	Ücret: 361.83 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -145,6 +200,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 55 FV 0866
 Aracın sınıfı: Binek araç
 Aracın ağırlığı: 4766.00 kg
@@ -153,114 +211,161 @@ Ad Soyad: Gcev Gimbwq
 Özel Durum: Gazi
 İndirim Oranı: % 100
 	Ücret: 0.00 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 08 UF 0407
 Aracın sınıfı: Tır
 Aracın ağırlığı: 2217.00 kg
 Toplam süre (gg/ss/dd): 54:15:30
 Ad Soyad: Pxhagu Zxzii
 	Ücret: 3301.54 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 15 OK 9155
 Aracın sınıfı: Tır
 Aracın ağırlığı: 3602.00 kg
 Toplam süre (gg/ss/dd): 00:14:45
 Ad Soyad: Ovtr Fiula
 	Ücret: 65.00 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 05 RO 4772
 Aracın sınıfı: Kamyon
 Aracın ağırlığı: 7739.00 kg
 Toplam süre (gg/ss/dd): 343:15:18
 Ad Soyad: Zdyd Mennzq
 	Ücret: 20655.35 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 31 WX 1496
 Aracın sınıfı: Tır
 Aracın ağırlığı: 660367.00 kg
 Toplam süre (gg/ss/dd): 23:22:27
 Ad Soyad: Emhcns Xbbnk
 	Ücret: 3086.92 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 51 ED 8880
 Aracın sınıfı: Otobüs
 Aracın ağırlığı: 117733.00 kg
 Toplam süre (gg/ss/dd): 04:10:06
 Ad Soyad: Ctjebi Gkdyho
 	Ücret: 516.33 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 18 FO 2975
 Aracın sınıfı: Minibus
 Aracın ağırlığı: 395.00 kg
 Toplam süre (gg/ss/dd): 00:12:16
 Ad Soyad: Hppyfx Mdeg
 	Ücret: 42.99 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 46 OD 0786
 Aracın sınıfı: Tır
 Aracın ağırlığı: 273705.00 kg
 Toplam süre (gg/ss/dd): 00:01:30
 Ad Soyad: Gpai Locxbw
 	Ücret: 704.26 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 09 FN 8050
 Aracın sınıfı: Minibus
 Aracın ağırlığı: 50306.00 kg
 Toplam süre (gg/ss/dd): 04:11:29
 Ad Soyad: Bnqh Mwtqxr
 	Ücret: 347.76 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 35 NM 2412
 Aracın sınıfı: Kamyon
 Aracın ağırlığı: 377.00 kg
 Toplam süre (gg/ss/dd): 00:13:03
 Ad Soyad: Tpjxxj Rwwvx
 	Ücret: 56.94 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -268,6 +373,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 36 BT 1950
 Aracın sınıfı: Binek araç
 Aracın ağırlığı: 8690.00 kg
@@ -276,18 +384,25 @@ Ad Soyad: Zxhtyy Ifbg
 Özel Durum: Gazi
 İndirim Oranı: % 100
 	Ücret: 0.00 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 08 JD 5954
 Aracın sınıfı: Tır
 Aracın ağırlığı: 144.00 kg
 Toplam süre (gg/ss/dd): 00:14:38
 Ad Soyad: Gfss Hhuurw
 	Ücret: 56.36 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -295,12 +410,17 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 28 UE 4148
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 658569.00 kg
 Toplam süre (gg/ss/dd): 00:11:05
 Ad Soyad: Ylnebi Ohmptu
 	Ücret: 1660.42 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -308,6 +428,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 29 FR 4847
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 63.00 kg
@@ -316,6 +439,8 @@ Ad Soyad: Pqied Uefxys
 Özel Durum: Engelli
 İndirim Oranı: % 50
 	Ücret: 5.08 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -323,6 +448,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 03 HH 6098
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 119.00 kg
@@ -331,6 +459,8 @@ Ad Soyad: Omdecn Txxsvq
 Özel Durum: Engelli
 İndirim Oranı: % 50
 	Ücret: 1.65 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -338,12 +468,17 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 22 LL 7554
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 319930.00 kg
 Toplam süre (gg/ss/dd): 00:01:19
 Ad Soyad: Zejt Clcd
 	Ücret: 804.83 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -351,6 +486,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 49 XZ 3490
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 4551.00 kg
@@ -359,30 +497,42 @@ Ad Soyad: Msadnf Mwgd
 Özel Durum: Engelli
 İndirim Oranı: % 50
 	Ücret: 3845.19 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 28 FE 6404
 Aracın sınıfı: Otobüs
 Aracın ağırlığı: 4803.00 kg
 Toplam süre (gg/ss/dd): 00:00:40
 Ad Soyad: Evfdv Cohbf
 	Ücret: 21.01 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 38 GU 1272
 Aracın sınıfı: Minibus
 Aracın ağırlığı: 532.00 kg
 Toplam süre (gg/ss/dd): 79:00:43
 Ad Soyad: Xbcmbk Yqdlw
 	Ücret: 3565.33 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -390,6 +540,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 43 WR 0644
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 36.00 kg
@@ -398,18 +551,25 @@ Ad Soyad: Sjlriz Mwny
 Özel Durum: Gazi
 İndirim Oranı: % 100
 	Ücret: 0.00 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 28 UJ 3513
 Aracın sınıfı: Tır
 Aracın ağırlığı: 66.00 kg
 Toplam süre (gg/ss/dd): 03:10:46
 Ad Soyad: Jnhqh Cevoqc
 	Ücret: 236.16 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -417,48 +577,68 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 16 DA 3610
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 18685.00 kg
 Toplam süre (gg/ss/dd): 00:08:33
 Ad Soyad: Ctheft Vkqrgb
 	Ücret: 56.71 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 16 UV 0392
 Aracın sınıfı: Minibus
 Aracın ağırlığı: 5869.00 kg
 Toplam süre (gg/ss/dd): 00:00:39
 Ad Soyad: Xofv Mkltj
 	Ücret: 23.67 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 61 PH 5023
 Aracın sınıfı: Minibus
 Aracın ağırlığı: 57657.00 kg
 Toplam süre (gg/ss/dd): 19:08:10
 Ad Soyad: Ftfc Odff
 	Ücret: 1029.14 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 04 XU 2513
 Aracın sınıfı: Otobüs
 Aracın ağırlığı: 6047.00 kg
 Toplam süre (gg/ss/dd): 632:18:50
 Ad Soyad: Zczlaf Iqebpj
 	Ücret: 28497.12 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -466,12 +646,17 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 07 FC 7488
 Aracın sınıfı: Binek araç
 Aracın ağırlığı: 600426.00 kg
 Toplam süre (gg/ss/dd): 00:12:11
 Ad Soyad: Lcvlf Bjgmu
 	Ücret: 1529.07 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -479,6 +664,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 58 PD 6743
 Aracın sınıfı: Binek araç
 Aracın ağırlığı: 5736.00 kg
@@ -487,42 +675,59 @@ Ad Soyad: Hhpx Nawr
 Özel Durum: Gazi
 İndirim Oranı: % 100
 	Ücret: 0.00 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 22 YR 5852
 Aracın sınıfı: Kamyon
 Aracın ağırlığı: 642342.00 kg
 Toplam süre (gg/ss/dd): 00:01:18
 Ad Soyad: Oyguem Yrghe
 	Ücret: 1625.86 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 26 UF 3177
 Aracın sınıfı: Minibus
 Aracın ağırlığı: 3137.00 kg
 Toplam süre (gg/ss/dd): 06:08:07
 Ad Soyad: Ybczm Mgbltv
 	Ücret: 307.84 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 28 NP 8190
 Aracın sınıfı: Kamyon
 Aracın ağırlığı: 67.00 kg
 Toplam süre (gg/ss/dd): 05:00:07
 Ad Soyad: Phbrrq Rhhf
 	Ücret: 312.17 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -530,6 +735,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 72 MQ 4059
 Aracın sınıfı: Binek araç
 Aracın ağırlığı: 918.00 kg
@@ -538,30 +746,42 @@ Ad Soyad: Mqoehz Oarjc
 Özel Durum: Gazi
 İndirim Oranı: % 100
 	Ücret: 0.00 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 24 WI 9485
 Aracın sınıfı: Otobüs
 Aracın ağırlığı: 89853.00 kg
 Toplam süre (gg/ss/dd): 00:02:32
 Ad Soyad: Zzzoue Vfcgjh
 	Ücret: 239.63 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 05 NC 8706
 Aracın sınıfı: Minibus
 Aracın ağırlığı: 71627.00 kg
 Toplam süre (gg/ss/dd): 00:01:27
 Ad Soyad: Mrzfny Tyiran
 	Ücret: 194.07 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -569,6 +789,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 13 GA 4483
 Aracın sınıfı: Binek araç
 Aracın ağırlığı: 94.00 kg
@@ -577,30 +800,42 @@ Ad Soyad: Kiighz Hjxo
 Özel Durum: Engelli
 İndirim Oranı: % 50
 	Ücret: 14.12 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 47 VH 4262
 Aracın sınıfı: Otobüs
 Aracın ağırlığı: 7694.00 kg
 Toplam süre (gg/ss/dd): 41:21:15
 Ad Soyad: Xnxvyn Llfzx
 	Ücret: 1906.23 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 67 EM 0011
 Aracın sınıfı: Tır
 Aracın ağırlığı: 867782.00 kg
 Toplam süre (gg/ss/dd): 327:08:27
 Ad Soyad: Jlnnnd Yvfu
 	Ücret: 21829.46 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -608,6 +843,9 @@ Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
 Özel durumunuzu giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 68 CJ 9473
 Aracın sınıfı: Motosiklet
 Aracın ağırlığı: 4470.00 kg
@@ -616,31 +854,44 @@ Ad Soyad: Zzut Hpwu
 Özel Durum: Engelli
 İndirim Oranı: % 50
 	Ücret: 35.09 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 56 AL 6147
 Aracın sınıfı: Tır
 Aracın ağırlığı: 3538.00 kg
 Toplam süre (gg/ss/dd): 06:11:21
 Ad Soyad: Rmilms Qitpoc
 	Ücret: 424.85 TL
+********************
+
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
 Aracın ağırlığını (kg) giriniz:
 Süreyi dakika cinsinden giriniz:
 Ad ve soyadınızı giriniz:
+
+FATURANIZ
+********************
 Aracın plakası: 03 XI 5780
 Aracın sınıfı: Otobüs
 Aracın ağırlığı: 875.00 kg
 Toplam süre (gg/ss/dd): 344:15:51
 Ad Soyad: Qxwbie Opkm
 	Ücret: 15524.19 TL
+********************
+
 Başka araç var mı?
+
 Toplam araç sayısı: 50
 Araç sınıflarının toplam sayıları:
 	Motosiklet tipi araçların sayısı: 9

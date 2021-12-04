@@ -156,7 +156,7 @@ Aracın sınıfı: Kamyon
 Aracın ağırlığı: 605.00 kg
 Toplam süre (gg/ss/dd): 00:00:31
 Ad Soyad: Ujnqv Ljsv
-	Ücret: 1.51 TL
+	Ücret: 13.51 TL
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -207,7 +207,7 @@ Aracın sınıfı: Tır
 Aracın ağırlığı: 85.00 kg
 Toplam süre (gg/ss/dd): 00:00:08
 Ad Soyad: Vcwo Nccxk
-	Ücret: 0.21 TL
+	Ücret: 12.21 TL
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -267,7 +267,7 @@ Aracın sınıfı: Kamyon
 Aracın ağırlığı: 52374.00 kg
 Toplam süre (gg/ss/dd): 00:00:52
 Ad Soyad: Nawxqb Oimw
-	Ücret: 130.94 TL
+	Ücret: 142.94 TL
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -291,7 +291,7 @@ Aracın sınıfı: Tır
 Aracın ağırlığı: 4749.00 kg
 Toplam süre (gg/ss/dd): 05:00:09
 Ad Soyad: Hphw Cdtl
-	Ücret: 311.87 TL
+	Ücret: 323.87 TL
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -333,7 +333,7 @@ Aracın sınıfı: Tır
 Aracın ağırlığı: 19717.00 kg
 Toplam süre (gg/ss/dd): 00:00:26
 Ad Soyad: Gbmryl Ybpvmy
-	Ücret: 49.29 TL
+	Ücret: 61.29 TL
 Başka araç var mı?
 Aracınızın plakanızı giriniz:
 Araç kodunu (1-6 arasında) giriniz:
@@ -660,22 +660,22 @@ Araç sınıflarının oranları:
 	Kamyon tipi araçların oranları: % 16.00 
 	Tır tipi araçların oranları: % 20.00
 
-Otoparkın toplam geliri: 127943.19
+Otoparkın toplam geliri: 128003.19
 Araç sınıflarının gelirleri:
 	Motosiklet tipi araçların toplam geliri: 367.24 TL
 	Binek tipi araçların toplam geliri: 18968.01 TL
 	Minibüs tipi araçların toplam geliri: 7474.22 TL
 	Otobüs tipi araçların toplam geliri: 40831.52 TL
-	Kamyon tipi araçların toplam geliri: 28280.53 TL
-	Tır tipi araçların toplam geliri: 32021.67 TL
+	Kamyon tipi araçların toplam geliri: 28304.53 TL
+	Tır tipi araçların toplam geliri: 32057.67 TL
 
 Araç sınıflarının gelirlerinin yüzdeleri:
 	Motosiklet tipi araçların gelir yüzdesi: % 0.29
-	Binek tipi araçların gelir yüzdesi: % 14.83
+	Binek tipi araçların gelir yüzdesi: % 14.82
 	Minibüs tipi araçların gelir yüzdesi: % 5.84
-	Otobüs tipi araçların gelir yüzdesi: % 31.91
-	Kamyon tipi araçların gelir yüzdesi: % 22.10 
-	Tır tipi araçların gelir yüzdesi: % 25.03
+	Otobüs tipi araçların gelir yüzdesi: % 31.90
+	Kamyon tipi araçların gelir yüzdesi: % 22.11 
+	Tır tipi araçların gelir yüzdesi: % 25.04
 
 Araç sınıflarının ortalama kalma süreleri:
 	Motosiklet tipi araçların ortalama kalma süresi(gg/ss/dd): 200:06:58
@@ -690,8 +690,8 @@ Araç sınıflarının ortalama gelirleri:
 	Binek tipi araçların ortalama gelirleri: 1724.36 TL
 	Minibüs tipi araçların ortalama gelirleri: 1494.84 TL
 	Otobüs tipi araçların ortalama gelirleri: 5103.94 TL
-	Kamyon tipi araçların ortalama gelirleri: 3535.07 TL
-	Tır tipi araçların ortalama gelirleri: 3202.17 TL
+	Kamyon tipi araçların ortalama gelirleri: 3538.07 TL
+	Tır tipi araçların ortalama gelirleri: 3205.77 TL
 
 1 tondan az binek araçların toplam binek sayısının tipi araç sayısına oranı: % 54.55
 10 tondan fazla olan otobüs, kamyon ve tır sayısının toplam otobüs ve kamyon sayısına oranı: % 46.15

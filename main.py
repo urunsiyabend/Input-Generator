@@ -6,15 +6,15 @@ import exrex
 import sys
 
 DEFAULT_RANGE = 50
-DEFAULT_FILE_COUNT = 10
+DEFAULT_FILE_COUNT = 20
 INPUT_DIRECTORY = "./Inputs/"
 INPUT_FILE = INPUT_DIRECTORY + 'inputs'
 
 REG_PLATE_EXP = r'[0-7]\d [A-Z]{2} \d{4}'
 CAR_TYPE_EXP = r'[1-6]'
-WEIGHT_EXP = r'\d\d\d\d'
+WEIGHT_EXP = r'[0-9]{2,6}'
 NAME_EXP = r'[A-Z][a-z]{3,5} [A-Z][a-z]{3,5}'
-TIME_EXP = r'\d\d\d\d'
+TIME_EXP = r'\d{2,6}'
 SPECIAL_CASE_EXP = r'[yge]'
 
 parser = argparse.ArgumentParser()
@@ -30,6 +30,7 @@ expressions = {
     'time_exp': TIME_EXP,
     'name': NAME_EXP,
 }
+
 
 def create_sample():
     values = [exrex.getone(exp) for exp in expressions.values()]

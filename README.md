@@ -12,6 +12,8 @@ import sys
 sys.stdin = open("buraya_input_dosyası_gelecek.txt", "r", encoding = "utf-8")
 ```
 
+(! İndirdiğiniz Inputs klasörünün proje kodunuz ile aynı dizinde olması gerekmektedir)
+
 ### Örn:
 ```python
 import sys
